@@ -1,0 +1,307 @@
+<!Doctype html>
+<html>
+<head>
+	<title>E-Cell KGEC | Faculty</title>
+	<link rel="icon" href="https://kgececell.com/dependencies/img/Ecelllogohigh.png">
+	<style>
+		body,html{ 
+			height:100%;
+			margin:0;
+			background-color:#fdfdfd;
+		}
+		
+		.tab{
+			background-color: #f2f2f2;
+			width:100%;
+			position:fixed;
+		}
+		
+		.tab img{
+			height: 33px;
+			width: auto;
+			padding-top: 6px;
+			padding-left: 10px;
+		}
+		
+		.tab button{
+			background-color: inherit;
+			float: right; 
+			border: none;
+			font-size: 18px;
+			padding: 10px 27px;
+			font-family: Verdana;
+			cursor: pointer;
+		}
+		
+		.tab button:hover{
+			transition-duration: 0.2s;
+			background-color: #d4d4d4;
+		}
+				
+		.anum {
+			height:60%;
+			width:100%;
+			padding-top:2.5%;
+		}
+		
+		.pic{
+			padding-top:75px;
+			padding-left:35%;
+			padding-right:50%;
+			width:200px;
+			height:225px;
+		}
+		
+		.rpic{
+			padding-top:75px;
+			padding-left:50%;
+			padding-right:80%;
+			width:200px;
+			height:225px;
+
+		}
+		
+		.name{
+			font-family:Helvetica;
+			font-size:24px;
+			color:#2f2f2f;
+			padding-top:80px;
+			font-weight:500;
+			
+		}
+		
+		.post{
+			font-family:sans-serif;
+			font-size:20px;
+			color:#666666;
+			font-weight:550;
+		}
+		
+		.desp{
+			font-family:sans-serif;
+			font-weight:300;
+			font-size:18px;
+			color:#666666;
+			padding-top:2%;
+		}
+		
+		.logo{
+			padding-left:7%;
+			padding-top:5%;
+			float:left;
+			cursor: pointer;
+
+		}
+		
+		.first{
+			display:flex;
+		}
+		
+		.ltab{
+			display:flex;
+			background-color:#ececeb;
+			width:100%;
+		}
+		
+		.info{	
+			font-family:Helvetica;
+			font-weight:500;
+			font-size:21px;
+			color:#333333;
+			padding-top:7px;
+			padding-left:19%;
+			padding-right:38%;
+			text-align:center;
+		}
+		
+		.infologo
+		{
+			padding-top:35px;
+			height:50px;
+			width:50px;
+			padding-right:25px;
+			
+		}
+		
+	</style>
+</head>
+
+<body>
+		<div class="tab">
+			<img  alt="ecell logo" src="https://kgececell.com/dependencies/img/Ecelllogohigh.png">
+			<button onclick="location.href='https://kgececell.com/gallery.html'">Gallery</button>
+			<button onclick="location.href='https://kgececell.com/student.html'">Student</button>
+			<button onclick="location.href='https://kgececell.com/faculty.html'">Faculty</button>
+			<button onclick="location.href='https://kgececell.com/blog.html'">Blog</button>
+			<button onclick="location.href='https://kgececell.com/esummit.html'">E-summit</button>
+			<button onclick="location.href='https://kgececell.com/about.html'">About us</button>
+			<button onclick="location.href='https://kgececell.com/index.html'">Home</button>
+		</div>
+		
+		<div>
+			<img class="anum" src="https://images.yourstory.com/2016/07/68-Mentor-01-1.png">
+		</div>
+	
+		
+		<div class="first">
+			<div>
+				<img class="pic" src="https://kgececell.com/img/pr.jpg">
+			</div>
+			<div>
+				<div class="name">Dr. Sourabh Kumar Das</div><br>
+				<div class="post">Principal K.G.E.C</div> 
+				<div class="desp">
+					<q> Things may come to those who wait, but only the  <br>
+					things left by those who hustle.</q><br><br>
+					Besides supporting new budding ideas, He is a  <br>
+					constant mentor and guide. He has been the source of  <br>
+					inspiration since the formation of the kgec Ecell.<br>
+				</div>
+				<div class="logo">
+					<a href="#"><img width="26px" height="26px" src="http://www.sodaash.net/wp-content/uploads/2015/10/twitter.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/facebook_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="http://files.softicons.com/download/application-icons/circle-icons-by-martz90/ico/gmail.ico"></a>
+				</div>
+			</div>
+			
+			<div>
+				<img class="rpic" src="https://kgececell.com/img/sd.jpg">
+			</div>
+			<div>
+				<div class="name">Dr. Santanu Das</div><br>
+				<div class="post">Director E-Cell</div> 
+				<div class="desp">
+					<q>Timing, perseverance, and ten years of trying will <br>
+					eventually make you look like an overnight success.</q><br><br>
+					Acting as the current director of E-cell, He flaunts  <br>
+					a personality that is ever attractive. His words of advice  <br>
+					are always at the core of the kgec Ecell Principles.<br>
+				</div>
+				<div class="logo">
+					<a href="#"><img width="26px" height="26px" src="http://www.sodaash.net/wp-content/uploads/2015/10/twitter.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/facebook_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="http://files.softicons.com/download/application-icons/circle-icons-by-martz90/ico/gmail.ico"></a>
+					
+				</div>
+			</div>
+		</div>
+		<br>
+		
+			<!--------------------------------------------------------------------------------------------------------------------------------------------------->
+		
+		<div class="first">
+			<div>
+				<img class="pic" src="https://lh3.googleusercontent.com/-PTjMQmd_gzg/WzI3uvbrHKI/AAAAAAAABfc/NXMzYejc_gE1G0tSJJVijfRQRRoaDVb8QCL0BGAs/w477-d-h504-n-rw/Untitled.png">
+			</div>
+			<div>
+				<div class="name">Mr. Supriyo Banerjee</div><br>
+				<div class="post">Secretary E-Cell</div> 
+				<div class="desp">
+					<q>Every single person I know who is successful at what   <br>
+					they do is successful because they love doing it.</q><br><br>
+					He is the light that the group needs, to be working  <br>
+					on its mission. He inspires youth and energises  <br>
+					them with them unmatched enthusiasm.<br>
+				</div>
+				<div class="logo">
+					<a href="#"><img width="26px" height="26px" src="http://www.sodaash.net/wp-content/uploads/2015/10/twitter.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/facebook_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="http://files.softicons.com/download/application-icons/circle-icons-by-martz90/ico/gmail.ico"></a>
+					
+				</div>
+			</div>
+			
+			<div>
+				<img class="rpic" src="https://lh3.googleusercontent.com/-ss4RbwoJo0w/WzI5pICI2uI/AAAAAAAABgI/VDX4OJ6ehWQy2q70L9heZFHBod9LEaL0QCL0BGAs/w477-d-h480-n-rw/Untitled.png">
+			</div>
+			<div>
+				<div class="name">Mr. Md. Iqbal Qureshi</div><br>
+				<div class="post">Treasurer E-Cell</div> 
+				<div class="desp">
+					<q>To any entrepreneur: if you want to do it, do it now. <br>
+					 If you don’t, you’re going to regret it.</q><br><br>
+					The chief spokesperson of our group, he manages to <br>
+					bring all the pieces and ideas under one roof. His   <br>
+					management and public relations skill is unprecedented.<br>
+				</div>
+				<div class="logo">
+					<a href="#"><img width="26px" height="26px" src="http://www.sodaash.net/wp-content/uploads/2015/10/twitter.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/facebook_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="http://files.softicons.com/download/application-icons/circle-icons-by-martz90/ico/gmail.ico"></a>
+					
+				</div>
+			</div>
+		</div>
+		<br>
+		<!--------------------------------------------------------------------------------------------------------------------------------------------------->
+		
+		<div class="first">
+			<div>
+				<img class="pic" src="https://lh3.googleusercontent.com/-JwAWzV5AMbs/WzI8q3c2mRI/AAAAAAAABhQ/4rIvXa8FnGopnHp-VGRf1siYHzdkSAf0QCL0BGAs/w477-d-h398-n-rw/Untitled.png">
+			</div>
+			<div>
+				<div class="name">Dr. Himadri Shekhar Dutta</div><br>
+				<div class="post">Member E-Cell</div> 
+				<div class="desp">
+					<q>We are really competing against ourselves, <br>
+					we have no control over how other people perform.</q><br><br>
+					Besides supporting new budding ideas, He is a  <br>
+					constant mentor and guide. He has been the source of  <br>
+					inspiration since the formation of the kgec Ecell.<br>
+				</div>
+				<div class="logo">
+					<a href="#"><img width="26px" height="26px" src="http://www.sodaash.net/wp-content/uploads/2015/10/twitter.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/facebook_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="http://files.softicons.com/download/application-icons/circle-icons-by-martz90/ico/gmail.ico"></a>
+					
+				</div>
+			</div>
+			
+			<div>
+				<img class="rpic" src="https://kgececell.com/img/blank.png">
+			</div>
+			<div>
+				<div class="name">Mr. Barun Mandal</div><br>
+				<div class="post">Member E-Cell</div> 
+				<div class="desp">
+					<q>Think big and don’t listen to people who tell you <br>
+					it can’t be done. Life’s too short to think small.</q><br><br>
+					Besides supporting new budding ideas, He is a  <br>
+					constant mentor and guide. He has been the source of  <br>
+					inspiration since the formation of the kgec Ecell.<br>
+				</div>
+				<div class="logo">
+					<a href="#"><img width="26px" height="26px" src="http://www.sodaash.net/wp-content/uploads/2015/10/twitter.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/facebook_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/linkedin_circle-512.png"></a>
+					<a href="#"><img width="25px" height="25px" style="padding-left:10px;" src="http://files.softicons.com/download/application-icons/circle-icons-by-martz90/ico/gmail.ico"></a>
+					
+				</div>
+			</div>
+		</div>
+		<br>
+		
+		<br>
+		
+		<div class="ltab">
+			<div class="info">
+				<br>Entreprenaurship Cell<br>Kalyani Govt. Eng. College<br>Kalyani, Nadia<br><br>
+			</div>
+			
+			<div>
+				<a href="#"><img class="infologo" src="http://www.sodaash.net/wp-content/uploads/2015/10/twitter.png"></a>
+				<a href="#"><img class="infologo" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/facebook_circle-512.png"></a>
+				<a href="#"><img class="infologo" src="http://www.simplelivingandtravel.com/wp-content/uploads/footer/instagram.png"></a>
+				<a href="#"><img class="infologo" src="http://files.softicons.com/download/application-icons/circle-icons-by-martz90/ico/gmail.ico"></a>
+				<a href="#"><img class="infologo" src="https://fthmb.tqn.com/IH_l1QnIcFddCFuviMJ7UuRJfko=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/google-plus-57d9e4d53df78c9cceedc5e1.png"></a>
+			</div>
+		</div>
+		
+		
+</body>
+</hmtl>
